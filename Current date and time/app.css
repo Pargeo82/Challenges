@@ -1,0 +1,9 @@
+body {
+    background-image: url('https://assets.weforum.org/article/image/25NbfYbkiuMvTW3P_YO8QeE-SxtvNKGRX9Dgr6W-gNE.jpg');
+    vh: 100%;
+}
+
+h1,
+h2 {
+    color: #f5e75f;
+}
